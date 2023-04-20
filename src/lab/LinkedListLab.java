@@ -14,6 +14,11 @@ public class LinkedListLab
         return null;
     }
 
+    public static void printCircularList(Node head)
+    {
+
+    }
+
     public static Node[] split(Node head)
     {
         return null;
